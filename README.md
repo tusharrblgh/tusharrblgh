@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Srivastava.</h1>
 <h3 align="center">Experienced DevOps Engineer with 2+ Years of Experience.</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/tusharrblgh/tusharrblgh/main/TS-banner.png"> </div>
-<img align="right" alt="coding" width="400" src="raw.githubusercontent.com/tusharrblgh/tusharrblgh/master/gif3.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/tusharrblgh/tusharrblgh/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrblgh&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrblgh" /> </p>
 
