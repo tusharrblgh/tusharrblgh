@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Srivastava.</h1>
-<h3 align="center">Experienced DevOps Engineer with 2+ Years of Experience.</h3>
+<h3 align="center"> IT Professional with 2.6+ Years of Experience.</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/tusharrblgh/tusharrblgh/main/TS-banner.png"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrblgh&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrblgh" /> </p>
