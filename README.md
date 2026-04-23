@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tusharrbl@gmail.com**
 
-- 📄 Know about my experiences [https://www.tusharsrivastava.tech](https://www.tusharsrivastava.tech)
+- 📄 Know about my experiences [https://www.tusharsrivastava.space](https://www.tusharsrivastava.space)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
