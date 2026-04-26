@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharrblgh&label=Profile%20views&color=0e75b6&style=flat" alt="tusharrblgh" /> </p>
 
-- 🔭 I’m currently working on [Projects-related-to-Corporation]([https://github.com/tusharrblgh/IT-Project](https://github.com/tusharrblgh/AWS-Native-Three-Tier-Deployment.git)
+- 🔭 I’m currently working on [Projects-related-to-Corporation](https://github.com/tusharrblgh/AWS-Native-Three-Tier-Deployment.git)
 
 - 🌱 I’m currently practising **DevSecOps related Projects.**
 
